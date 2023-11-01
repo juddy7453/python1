@@ -1,0 +1,6 @@
+import numpy as np
+
+n = 10
+
+arr = np.random.randint(-1000000, 1000000, n)
+print(arr)
